@@ -34,6 +34,7 @@ SELECT
 GROUP BY
     personality;
 
+-- Correlation analysis
 -- correlation between stage fear and personality 
 SELECT 
     personality,
