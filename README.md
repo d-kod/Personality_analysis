@@ -34,4 +34,9 @@ Aims in identifying outliers or inconsistencies. Its purpose is to clean data or
 ### 6.Segmentation Analysis
 Divides data into meaningful subgroups for targeted analysis
 
+## Analysis Question to answer
+#### 1.Descriptive
+
+
+
 
