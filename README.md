@@ -42,6 +42,39 @@ Divides data into meaningful subgroups for targeted analysis
 ### 2.Correlation 
 1. Distribution of stage fear (Yes/No) by personality
 
+### 3.Comparative 
+1. Do extroverts attend more social events than introverts?
+2. Do people with stage fear have smaller friend circles?
+3. Is post frequency higher for extroverts?
 
+### 4.Prediction
+1. If someone has stage fear, what’s the probability they’re an introvert?
+2. What combination of factors best predicts personality type?
+
+### 5.Anomaly Detection
+1. Extroverts who rarely go outside 
+2. Introverts with unusually large friend circles
+3. People who report high social attendance but low going out
+
+### 6.Segmentation
+1. Among frequent social attendees, what % are introverts?
+
+## Code
+For the rest of the code, check [MySQL Local.session.sql](https://github.com/d-kod/Personality_analysis/blob/main/MySQL%20Local.session.sql) file
+
+-- create database
+CREATE DATABASE personality_analysis;
+
+-- create tabel
+CREATE Table personality_traits(
+    time_alone INT,
+    stage_fear VARCHAR(15),
+    social_event_attendance INT,
+    going_out  INT,
+    drained_after_socializing VARCHAR(5),
+    friends_circle INT,
+    post_frequency INT,
+    personality VARCHAR(15),
+);
 
 
