@@ -20,3 +20,18 @@ This dataset was obtained from [Kaggle Prediction Personality Data](https://www.
 |  post_frequency          | Social media posts per week          | INT           |
 |  personality             | Personality classification           | VARCHAR(15)   |
 
+## Analysis List
+### 1.Descriptive Analysis
+Conduct analysis on the data to understand basic trends and demographics in the dataset
+### 2.Correlation Analysis
+Shows potential relationships between variables
+### 3.Comparative Analysis
+This aims to compare groups or condition thus identifying differences between predifined groups
+### 4.Prediction Analysis
+Aims to give likelihoods or statistical inferences
+### 5.Anomaly Detection
+Aims in identifying outliers or inconsistencies. Its purpose is to clean data or flag unusual cases for review
+### 6.Segmentation Analysis
+Divides data into meaningful subgroups for targeted analysis
+
+
