@@ -21,21 +21,26 @@ This dataset was obtained from [Kaggle Prediction Personality Data](https://www.
 |  personality             | Personality classification           | VARCHAR(15)   |
 
 ## Analysis List
- 1.Descriptive Analysis
+### 1.Descriptive Analysis
 Conduct analysis on the data to understand basic trends and demographics in the dataset
- 2.Correlation Analysis
+### 2.Correlation Analysis
 Shows potential relationships between variables
- 3.Comparative Analysis
+### 3.Comparative Analysis
 This aims to compare groups or condition thus identifying differences between predifined groups
- 4.Prediction Analysis
+### 4.Prediction Analysis
 Aims to give likelihoods or statistical inferences
- 5.Anomaly Detection
+### 5.Anomaly Detection
 Aims in identifying outliers or inconsistencies. Its purpose is to clean data or flag unusual cases for review
- 6.Segmentation Analysis
+### 6.Segmentation Analysis
 Divides data into meaningful subgroups for targeted analysis
 
 ## Analysis Question to answer
-#### 1.Descriptive
+### 1.Descriptive
+1. Count of introverts vs. extroverts
+2.Average time spent alone by personality type
+
+### 2.Correlation 
+1.Distribution of stage fear (Yes/No) by personality
 
 
 
