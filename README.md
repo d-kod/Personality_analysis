@@ -37,10 +37,10 @@ Divides data into meaningful subgroups for targeted analysis
 ## Analysis Question to answer
 ### 1.Descriptive
 1. Count of introverts vs. extroverts
-2.Average time spent alone by personality type
+2. Average time spent alone by personality type
 
 ### 2.Correlation 
-1.Distribution of stage fear (Yes/No) by personality
+1. Distribution of stage fear (Yes/No) by personality
 
 
 
