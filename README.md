@@ -62,6 +62,7 @@ Divides data into meaningful subgroups for targeted analysis
 ## Code
 For the rest of the code, check [MySQL Local.session.sql](https://github.com/d-kod/Personality_analysis/blob/main/MySQL%20Local.session.sql) file
 
+```sql
 -- create database
 CREATE DATABASE personality_analysis;
 
@@ -76,5 +77,6 @@ CREATE Table personality_traits(
     post_frequency INT,
     personality VARCHAR(15),
 );
+```
 
 
